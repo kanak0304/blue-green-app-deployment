@@ -11,7 +11,7 @@ resources:
   type: git
   source:
     branch: master
-    uri: https://github.com/mhtike/blue-green-app-deployment.git
+    uri: https://github.com/kanak0304/blue-green-app-deployment.git
 - name: PAS
   type: cf
   source:
